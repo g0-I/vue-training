@@ -1,2 +1,2 @@
 # vue-training
-vue.js's training
+vue's training
