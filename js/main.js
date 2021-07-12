@@ -57,7 +57,7 @@ Vue.component('todo-item', {
 var app = new Vue(...)
 
 Vue.component('todo-item', {
-  // todo-item コンポーネントはカスタム属性のような "プロパティ" で受け取ります。
+  // todo-item コンポーネントはカスタム属性のような "プロパティ" で受け取り
   // このプロパティは todo と呼ばれます。
   props: ['todo'],
   template: '<li>{{ todo.text }}</li>'
