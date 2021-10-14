@@ -19,7 +19,7 @@ let app3 = new Vue({
   }
 })
 
-var app4 = new Vue({
+let app4 = new Vue({
   el: '#app-4',
   data: {
     todos: [
