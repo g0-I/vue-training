@@ -30,7 +30,7 @@ let app4 = new Vue({
   }
 })
 
-var app5 = new Vue({
+let app5 = new Vue({
   el: '#app-5',
   data: {
     message: 'Hello Vue.js'
