@@ -53,7 +53,7 @@ Vue.component('todo-item', {
   template: '<li>This is a todo</li>'
 })
 
-var app = new Vue(...)
+let app = new Vue(...)
 
 Vue.component('todo-item', {
   // todo-item コンポーネントはカスタム属性のような "プロパティ" で受け取り
